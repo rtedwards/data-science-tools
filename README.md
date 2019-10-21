@@ -21,3 +21,12 @@ A list of resources and tools for data science and workstation setup
 # VIM
 
 - [Learn vim for the First and Last Time](https://danielmiessler.com/study/vim/)
+
+# SQL
+
+- 📖[Learning SQL](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf)
+
+### PostgreSQL
+
+- [PostgreSQL Exercises](https://pgexercises.com/questions/basic/)
+book
