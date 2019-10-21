@@ -2,12 +2,14 @@
 A list of resources and tools for data science and workstation setup
 
 
-# Bash
+# 🖥️ Shells
+
+### 🔨 Bash
 
 - [bash improvements](https://dev.to/thejessleigh/essential-quality-of-life-terminal-improvements-4pa4)
 
 
-# Fish
+### 🐟 Fish
 
 - [fish shell](https://fishshell.com/docs/current/tutorial.html#tut_why_fish)
 - [🚀🐟 The fish shell prompt for astronauts](https://github.com/matchai/spacefish/)
@@ -17,13 +19,13 @@ A list of resources and tools for data science and workstation setup
 - [Node version manager wrapper for Fish shell ](https://github.com/derekstavis/plugin-nvm)
 
 
-# VIM
+# ⌨️ VIM
 
 - [x] [Learn vim for the First and Last Time](https://danielmiessler.com/study/vim/)  
 - [VIM Cheat Sheet](https://vim.rtorr.com/)  
 
 
-# SQL
+# 📋 SQL
 
 - [ ] 📖[Learning SQL](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf)  
 
@@ -60,7 +62,7 @@ A list of resources and tools for data science and workstation setup
 - [ ] [Mouse vs. Python](https://www.blog.pythonlibrary.org/)
 
 
-# Spark
+# ⚡ Spark
 
 - [ ] [Learn Apache Spark](https://runawayhorse001.github.io/LearningApacheSpark/pyspark.pdf)  
 - [ ] [Spark: The Definitive Guide](http://shop.oreilly.com/product/0636920034957.do) A follow up to Learning Spark.  
@@ -69,13 +71,13 @@ A list of resources and tools for data science and workstation setup
 - [ ] [Official Spark Documentation](https://spark.apache.org/docs/2.4.4/)  
 
 
-# Machine Learning 
+# 📊 Machine Learning 
 
 ### Sci-Kit Learn
   
 - [ ] [Sci-Kit Learn Documentation](https://scikit-learn.org/stable/user_guide.html)  **Scikit Learn** is a general machine learning library built on top of NumPy. It features a lot of utilities for general pre and post-processing of data. It is a library in Python used to construct traditional models.  
 
-# Deep Learning
+# 🤖 Deep Learning
 **Tensorflow** is the most famous library in production for deep learning models. Offers automatic differentiation to perform backpropagation smoothly, allowing you to literally build any machine learning model literally.  **Keras** is a high-level API built on Tensorflow. It is user-friendly and helps quickly build and test a neural network with minimal lines of code. Like building simple or complex neural networks within a few minutes. Modular since everything in Keras can be represented as modules.  
 - [ ] [Tensorflow Tutorial](https://www.tensorflow.org/tutorials/)  
 - [ ] [Keras Documentation](https://keras.io/)  
