@@ -2,7 +2,6 @@
 A list of resources and tools for data science and workstation setup
 
 
-
 # Bash
 
 - [bash improvements](https://dev.to/thejessleigh/essential-quality-of-life-terminal-improvements-4pa4)
@@ -21,6 +20,8 @@ A list of resources and tools for data science and workstation setup
 # VIM
 
 - [x] [Learn vim for the First and Last Time](https://danielmiessler.com/study/vim/)  
+- [VIM Cheat Sheet](https://vim.rtorr.com/)  
+
 
 # SQL
 
@@ -30,6 +31,7 @@ A list of resources and tools for data science and workstation setup
 
 - [PostgreSQL Exercises](https://pgexercises.com/questions/basic/)  
 - [Learn SQL](https://sqlbolt.com/lesson/introduction)  
+
 
 # 🐍Python
 
@@ -51,6 +53,7 @@ A list of resources and tools for data science and workstation setup
 
 - [ ] [Practical Business Python](https://pbpython.com/)
 - [ ] [GWOSC](https://www.gw-openscience.org/tutorials/)
+- [ ] [Mouse vs. Python](https://www.blog.pythonlibrary.org/)
 
 # Machine Learning
 
