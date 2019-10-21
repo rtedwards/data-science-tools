@@ -26,7 +26,7 @@ A list of resources and tools for data science and workstation setup
 
 - 📖[Learning SQL](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf)
 
-### PostgreSQL
+### SQL Exercises
 
 - [PostgreSQL Exercises](https://pgexercises.com/questions/basic/)
-book
+- [Learn SQL](https://sqlbolt.com/lesson/introduction)
