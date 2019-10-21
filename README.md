@@ -13,6 +13,8 @@ A list of resources and tools for data science and workstation setup
 - [fish shell](https://fishshell.com/docs/current/tutorial.html#tut_why_fish)
 - [🚀🐟 The fish shell prompt for astronauts](https://github.com/matchai/spacefish/)
 - [space fish](https://spacefish.matchai.me/)
+- [starship](https://starship.rs/)
+  - Successor to Space Fish
 - [Node version manager wrapper for Fish shell ](https://github.com/derekstavis/plugin-nvm)
 
 
