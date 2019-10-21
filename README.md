@@ -35,7 +35,7 @@ A list of resources and tools for data science and workstation setup
 - [Learn SQL](https://sqlbolt.com/lesson/introduction)  
 
 
-# 🐍Python
+# 🐍 Python
 
 
 - [ ] [Automate the Boring Stuff](https://automatetheboringstuff.com/)   
@@ -72,10 +72,9 @@ A list of resources and tools for data science and workstation setup
 
 
 # 📊 Machine Learning 
-
-### Sci-Kit Learn
   
 - [ ] [Sci-Kit Learn Documentation](https://scikit-learn.org/stable/user_guide.html)  **Scikit Learn** is a general machine learning library built on top of NumPy. It features a lot of utilities for general pre and post-processing of data. It is a library in Python used to construct traditional models.  
+
 
 # 🤖 Deep Learning
 **Tensorflow** is the most famous library in production for deep learning models. Offers automatic differentiation to perform backpropagation smoothly, allowing you to literally build any machine learning model literally.  **Keras** is a high-level API built on Tensorflow. It is user-friendly and helps quickly build and test a neural network with minimal lines of code. Like building simple or complex neural networks within a few minutes. Modular since everything in Keras can be represented as modules.  
