@@ -25,6 +25,16 @@ A list of resources and tools for data science and workstation setup
 - [VIM Cheat Sheet](https://vim.rtorr.com/)  
 
 
+# Introductary Technology Tutorials
+
+- [ ] [Ryan's Tutorials](https://ryanstutorials.net/)
+  - [ ] [Linux](https://ryanstutorials.net/linuxtutorial/)
+  - [ ] [Bash Scripting](https://ryanstutorials.net/bash-scripting-tutorial/)
+  - [ ] [Regular Expressions](https://ryanstutorials.net/regular-expressions-tutorial/)
+  - [ ] [Software Design & Development](https://ryanstutorials.net/software-design-and-development/)
+  - [ ] [Graphic Design](https://ryanstutorials.net/graphic-design-tutorial/)
+
+
 # 📋 SQL
 
 - [ ] 📖[Learning SQL](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf)  
